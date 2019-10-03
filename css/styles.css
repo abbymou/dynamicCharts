@@ -1,0 +1,14 @@
+.chart{
+  height:400px;
+
+}
+
+
+.half-chart{
+  height:400px;
+  width:45%;
+}
+
+.row {
+  margin: 20px;
+}
